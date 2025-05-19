@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Phan Trần Anh Nguyên</h1>
-<h3 align="center">💡 Android Dev | 📡 IoT Enthusiast | 🌐 Networking Student</h3>
+<h3 align="center">💡 Android Dev | 📡 IoT Enthusiast | 📊 Monitoring Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&pause=1000&color=F7CB4F&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+GitHub!;Android+Dev+%7C+IoT+Maker+%7C+Networking+Student;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&pause=1000&color=F7CB4F&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+GitHub!;Android+Dev+%7C+IoT+Maker+%7C+Monitoring+with+Zabbix+%7C+Prometheus+%7C+Grafana;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 - 🎓 Student at **University of Information Technology (UIT)** – VNU HCM  
 - 🧠 Major: **Computer Networks and Communication**
-- 📱 Passionate about **Android development**, **IoT systems**, and **Networking**
+- 📱 Passionate about **Android development**, **IoT systems**, and **network monitoring**
 - 🔭 Currently working on real-time connected systems and backend APIs
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/nguyên-phan-778a14366)
 
@@ -19,20 +19,34 @@
 
 ### 🛠️ Tech Stack & Tools
 
-#### 🧑‍💻 Programming & Platforms
+#### 👨‍💻 Programming Languages & Runtimes
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
 </p>
 
-#### 🔧 Tools & Frameworks
+#### 🔧 Development Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VSCode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" title="Android Studio" />
+</p>
+
+#### 💻 Operating Systems & Devices
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" title="Arduino" />
+</p>
+
+#### 📈 Monitoring & Observability
+<p>
+  <img src="https://img.shields.io/badge/Zabbix-EF1A1A?style=flat&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-orange?style=flat&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 </p>
 
 ---
@@ -59,6 +73,14 @@
 
 ---
 
+### 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantrananhnguyen&layout=compact&theme=radical" width="60%" />
+</p>
+
+---
+
 ### 🤝 Let’s Connect!
 
 <p align="center">
@@ -69,4 +91,3 @@
 ---
 
 <p align="center">✨ "Think in terms of systems, build with code, and connect the world." ✨</p>
-
