@@ -2,7 +2,7 @@
 <h3 align="center">💡 Android Dev | 📡 IoT Enthusiast | 🌐 Networking Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;IoT+and+Mobile+Solutions+Developer;Student+@+UIT+-+VNU+HCM;Let's+build+something+great+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=500&size=22&pause=1000&color=F7CB4F&center=true&vCenter=true&multiline=true&width=500&lines=Welcome+to+my+GitHub!;Android+Dev+%7C+IoT+Maker+%7C+Networking+Student;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
