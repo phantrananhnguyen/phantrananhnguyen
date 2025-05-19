@@ -2,7 +2,7 @@
 <h3 align="center">💡 Android Dev | 📡 IoT Enthusiast | 📊 Monitoring Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&pause=1000&color=F7CB4F&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+GitHub!;Android+Dev+%7C+IoT+Maker+%7C+Monitoring+with+Zabbix+%7C+Prometheus+%7C+Grafana;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=24&pause=1000&color=00654a&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Welcome+to+my+GitHub!;Android+Dev+%7C+IoT+Maker+%7C+Monitoring+with+Zabbix+%7C+Prometheus+%7C+Grafana;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
